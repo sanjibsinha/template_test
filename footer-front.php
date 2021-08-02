@@ -3,7 +3,6 @@
           <div class="container">
               THIS IS FOOTER FRONT
 </div>
-
         <!-- partial -->
       </div>
     </div>
